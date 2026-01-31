@@ -1,4 +1,4 @@
-package plugin
+package g_plugin
 
 import (
 	"sync"
