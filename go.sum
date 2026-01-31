@@ -65,8 +65,8 @@ github.com/ugorji/go/codec v1.3.0 h1:Qd2W2sQawAfG8XSvzwhBeoGq71zXOC/Q1E9y/wUcsUA
 github.com/ugorji/go/codec v1.3.0/go.mod h1:pRBVtBSKl77K30Bv8R2P+cLSGaTtex6fsA2Wjqmfxj4=
 github.com/yuppy5/g_healthcheck v0.0.2 h1:AVFulfH2f7jCsHgspZ9UrnbhykAfkB1WfrAhYEUPEGk=
 github.com/yuppy5/g_healthcheck v0.0.2/go.mod h1:39Yc/JkjNdpInH9J04Xh1yolSLfwYKevIVWh4g6tBoc=
-github.com/yuppy5/g_log v0.0.1 h1:Lu3kgKCDIJsSoqOVdo+Dlcz7HmvV+g6qWKYYe1qgDgs=
-github.com/yuppy5/g_log v0.0.1/go.mod h1:0ra12Gi7RpDrDyd7TOfxb3Vcc+B4W/oxqzgjG4cTFgA=
+github.com/yuppy5/g_log v0.0.2 h1:Twxy+XAyy7ajYO1o34IzEdlc+DJXQ+6zz3+7vSVB1pE=
+github.com/yuppy5/g_log v0.0.2/go.mod h1:0ra12Gi7RpDrDyd7TOfxb3Vcc+B4W/oxqzgjG4cTFgA=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
 go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
 go.uber.org/mock v0.5.0 h1:KAMbZvZPyBPWgD14IrIQ38QCyjwpvVVV6K/bHl1IwQU=

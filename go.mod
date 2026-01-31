@@ -5,7 +5,7 @@ go 1.23.2
 require (
 	github.com/gin-gonic/gin v1.11.0
 	github.com/yuppy5/g_healthcheck v0.0.2
-	github.com/yuppy5/g_log v0.0.1
+	github.com/yuppy5/g_log v0.0.2
 )
 
 require (
